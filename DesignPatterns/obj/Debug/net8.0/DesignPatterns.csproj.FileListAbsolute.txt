@@ -1,0 +1,15 @@
+/workspaces/Design-patterns-CSharp/DesignPatterns/bin/Debug/net8.0/DesignPatterns
+/workspaces/Design-patterns-CSharp/DesignPatterns/bin/Debug/net8.0/DesignPatterns.deps.json
+/workspaces/Design-patterns-CSharp/DesignPatterns/bin/Debug/net8.0/DesignPatterns.runtimeconfig.json
+/workspaces/Design-patterns-CSharp/DesignPatterns/bin/Debug/net8.0/DesignPatterns.dll
+/workspaces/Design-patterns-CSharp/DesignPatterns/bin/Debug/net8.0/DesignPatterns.pdb
+/workspaces/Design-patterns-CSharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Design-patterns-CSharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.AssemblyInfoInputs.cache
+/workspaces/Design-patterns-CSharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.AssemblyInfo.cs
+/workspaces/Design-patterns-CSharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/workspaces/Design-patterns-CSharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.sourcelink.json
+/workspaces/Design-patterns-CSharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.dll
+/workspaces/Design-patterns-CSharp/DesignPatterns/obj/Debug/net8.0/refint/DesignPatterns.dll
+/workspaces/Design-patterns-CSharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.pdb
+/workspaces/Design-patterns-CSharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.genruntimeconfig.cache
+/workspaces/Design-patterns-CSharp/DesignPatterns/obj/Debug/net8.0/ref/DesignPatterns.dll
